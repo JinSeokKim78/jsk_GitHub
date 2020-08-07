@@ -1684,4 +1684,13 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
+figcaption {
+  /*background: rgba(55, 55, 55, 0.5);*/
+  padding: 1em;
+  line-height: 1;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
 /*# sourceMappingURL=style.css.map */
